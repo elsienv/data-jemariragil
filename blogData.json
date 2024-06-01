@@ -3,7 +3,7 @@
         "id": 9,
         "date": "23 Mei 2024",
         "title": "Lorem Ipsum Dolor Sir Amet",
-        "image": "/images/blog-1.png",
+        "image": "https://elsienv.github.io/data-jemariragil/images/blog-1.png",
         "description": "This is a short description for the first blog post.",
         "link": "/blog/9"
     },
@@ -11,7 +11,7 @@
         "id": 10,
         "date": "23 Mei 2024",
         "title": "Lorem Ipsum Dolor Sir Amet",
-        "image": "/images/blog-2.png",
+        "image": "https://elsienv.github.io/data-jemariragil/images/blog-2.png",
         "description": "This is a short description for the first blog post.",
         "link": "/blog/10"
     },
@@ -19,7 +19,7 @@
         "id": 11,
         "date": "23 Mei 2024",
         "title": "Lorem Ipsum Dolor Sir Amet",
-        "image": "/images/blog-3.png",
+        "image": "https://elsienv.github.io/data-jemariragil/images/blog-3.png",
         "description": "This is a short description for the first blog post.",
         "link": "/blog/11"
     },
@@ -27,7 +27,7 @@
         "id": 12,
         "date": "23 Mei 2024",
         "title": "Lorem Ipsum Dolor Sir Amet",
-        "image": "/images/blog-4.png",
+        "image": "https://elsienv.github.io/data-jemariragil/images/blog-4.png",
         "description": "This is a short description for the first blog post.",
         "link": "/blog/12"
     }
