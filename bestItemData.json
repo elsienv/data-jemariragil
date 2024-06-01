@@ -2,7 +2,7 @@
     {
         "id": 9,
         "title": "Bouquet Photo",
-        "image": "/images/product-01.jpeg",
+        "image": "https://elsienv.github.io/data-jemariragil/images/best-01.jpeg",
         "price": "30.000",
         "rating": 4.8,
         "reviewsCount": 120
@@ -10,7 +10,7 @@
     {
         "id": 10,
         "title": "Ganci Album",
-        "image": "/images/product-02.jpeg",
+        "image": "https://elsienv.github.io/data-jemariragil/images/best-02.jpeg",
         "price": "25.000",
         "rating": 4.5,
         "reviewsCount": 500
@@ -18,31 +18,31 @@
     {
         "id": 11,
         "title": "Polaroid",
-        "image": "/images/product-07.jpeg",
+        "image": "https://elsienv.github.io/data-jemariragil/images/best-03.jpeg",
         "price": "12.000",
         "rating": 5.0,
         "reviewsCount": 150
     },
     {
         "id": 12,
-        "title": "Bundling Kipas + Bando",
-        "image": "/images/product-17.jpeg",
-        "price": "12.000",
+        "title": "Kipas Custom",
+        "image": "https://elsienv.github.io/data-jemariragil/images/best-04.jpeg",
+        "price": "8.000",
         "rating": 4.6,
         "reviewsCount": 75
     },
     {
         "id": 13,
         "title": "Photo Strip",
-        "image": "/images/product-08.jpeg",
+        "image": "https://elsienv.github.io/data-jemariragil/images/best-05.jpeg",
         "price": "10.000",
         "rating": 4.6,
         "reviewsCount": 75
     },
     {
         "id": 14,
-        "title": "Cincin Manik",
-        "image": "/images/product-13.jpeg",
+        "title": "Bundling Cincin & Gelang",
+        "image": "https://elsienv.github.io/data-jemariragil/images/best-06.jpeg",
         "price": "5.000",
         "rating": 5.0,
         "reviewsCount": 590
