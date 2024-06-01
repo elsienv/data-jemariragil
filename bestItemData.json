@@ -1,6 +1,6 @@
 [
     {
-        "id": 30,
+        "id": 9,
         "title": "Bouquet Photo",
         "image": "/images/product-01.jpeg",
         "price": "30.000",
@@ -8,7 +8,7 @@
         "reviewsCount": 120
     },
     {
-        "id": 31,
+        "id": 10,
         "title": "Ganci Album",
         "image": "/images/product-02.jpeg",
         "price": "25.000",
@@ -16,7 +16,7 @@
         "reviewsCount": 500
     },
     {
-        "id": 32,
+        "id": 11,
         "title": "Polaroid",
         "image": "/images/product-07.jpeg",
         "price": "12.000",
@@ -24,7 +24,7 @@
         "reviewsCount": 150
     },
     {
-        "id": 33,
+        "id": 12,
         "title": "Bundling Kipas + Bando",
         "image": "/images/product-17.jpeg",
         "price": "12.000",
@@ -32,7 +32,7 @@
         "reviewsCount": 75
     },
     {
-        "id": 34,
+        "id": 13,
         "title": "Photo Strip",
         "image": "/images/product-08.jpeg",
         "price": "10.000",
@@ -40,7 +40,7 @@
         "reviewsCount": 75
     },
     {
-        "id": 35,
+        "id": 14,
         "title": "Cincin Manik",
         "image": "/images/product-13.jpeg",
         "price": "5.000",
