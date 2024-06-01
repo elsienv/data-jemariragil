@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Gift",
+        "image": "https://i.ibb.co.com/j8dSDg1/camera.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bouquet",
+        "image": "/images/tv.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Souvenir",
+        "image": "/images/tab.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Accesories",
+        "image": "/images/speaker.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Photo Print",
+        "image": "/images/laptop.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sticker Print",
+        "image": "/images/headphone.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Customization",
+        "image": "/images/watch.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Bundling",
+        "image": "/images/acc.jpg"
+    }
+]
