@@ -2,41 +2,41 @@
     {
         "id": 1,
         "name": "Gift",
-        "image": "https://i.ibb.co.com/j8dSDg1/camera.jpg"
+        "image": "https://elsienv.github.io/data-jemariragil/images/cat-gift.png"
     },
     {
         "id": 2,
         "name": "Bouquet",
-        "image": "/images/tv.jpg"
+        "image": "https://elsienv.github.io/data-jemariragil/images/cat-buket.png"
     },
     {
         "id": 3,
         "name": "Souvenir",
-        "image": "/images/tab.jpg"
+        "image": "https://elsienv.github.io/data-jemariragil/images/cat-souvenir.png"
     },
     {
         "id": 4,
         "name": "Accesories",
-        "image": "/images/speaker.jpg"
+        "image": "https://elsienv.github.io/data-jemariragil/images/cat-acc.png"
     },
     {
         "id": 5,
         "name": "Photo Print",
-        "image": "/images/laptop.jpg"
+        "image": "https://elsienv.github.io/data-jemariragil/images/cat-photo.png"
     },
     {
         "id": 6,
         "name": "Sticker Print",
-        "image": "/images/headphone.jpg"
+        "image": "https://elsienv.github.io/data-jemariragil/images/cat-sticker.png"
     },
     {
         "id": 7,
         "name": "Customization",
-        "image": "/images/watch.jpg"
+        "image": "https://elsienv.github.io/data-jemariragil/images/cat-cust.png"
     },
     {
         "id": 8,
         "name": "Bundling",
-        "image": "/images/acc.jpg"
+        "image": "https://elsienv.github.io/data-jemariragil/images/cat-bund.png"
     }
 ]
