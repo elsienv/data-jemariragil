@@ -1,0 +1,26 @@
+[
+    {
+        "id": 15,
+        "title": "Ganci Cermin",
+        "image": "https://elsienv.github.io/data-jemariragil/images/disc-01.png",
+        "old price": "Rp10.000",
+        "new price": "Rp8.000",
+        "stock": 35
+    },
+    {
+        "id": 16,
+        "title": "Kacamata Fashion",
+        "image": "https://elsienv.github.io/data-jemariragil/images/disc-02.jpeg",
+        "old price": "Rp25.000",
+        "new price": "Rp18.000",
+        "stock": 10
+    },
+    {
+        "id": 17,
+        "title": "Bundling Kipas + Bando",
+        "image": "https://elsienv.github.io/data-jemariragil/images/disc-03.jpeg",
+        "old price": "20.000",
+        "new price": "15.000",
+        "stock": 5
+    }
+]
