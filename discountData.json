@@ -10,7 +10,7 @@
     {
         "id": 16,
         "title": "Kacamata Fashion",
-        "image": "https://elsienv.github.io/data-jemariragil/images/disc-02.jpeg",
+        "image": "https://elsienv.github.io/data-jemariragil/images/disc-02.png",
         "old_price": "Rp25.000",
         "new_price": "Rp18.000",
         "stock": 10
@@ -18,7 +18,7 @@
     {
         "id": 17,
         "title": "Bundling Kipas + Bando",
-        "image": "https://elsienv.github.io/data-jemariragil/images/disc-03.jpeg",
+        "image": "https://elsienv.github.io/data-jemariragil/images/disc-03.png",
         "old_price": "20.000",
         "new_price": "15.000",
         "stock": 5
