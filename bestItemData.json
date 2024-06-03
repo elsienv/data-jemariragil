@@ -46,5 +46,21 @@
         "price": "5.000",
         "rating": 5.0,
         "reviewsCount": 590
+    },
+    {
+        "id": 15,
+        "title": "Ganci Akrilik",
+        "image": "https://elsienv.github.io/data-jemariragil/images/best-07.jpeg",
+        "price": "8.000",
+        "rating": 5.0,
+        "reviewsCount": 590
+    },
+    {
+        "id": 16,
+        "title": "Photo Cutting",
+        "image": "https://elsienv.github.io/data-jemariragil/images/best-08.jpeg",
+        "price": "1.000",
+        "rating": 5.0,
+        "reviewsCount": 590
     }
 ]
