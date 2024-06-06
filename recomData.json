@@ -2,7 +2,7 @@
     {
         "id": 21,
         "title": "Ganci Cermin",
-        "image": "https://elsienv.github.io/data-jemariragil/images/best-01.jpeg",
+        "image": "https://elsienv.github.io/data-jemariragil/images/recom-01.jpeg",
         "price": "7.000",
         "rating": 4.8,
         "reviewsCount": 120
@@ -10,7 +10,7 @@
     {
         "id": 22,
         "title": "Custom Sticker",
-        "image": "https://elsienv.github.io/data-jemariragil/images/best-02.jpeg",
+        "image": "https://elsienv.github.io/data-jemariragil/images/recom-02.jpeg",
         "price": "6.500",
         "rating": 4.5,
         "reviewsCount": 500
@@ -18,7 +18,7 @@
     {
         "id": 23,
         "title": "Foto 3x4",
-        "image": "https://elsienv.github.io/data-jemariragil/images/best-03.jpeg",
+        "image": "https://elsienv.github.io/data-jemariragil/images/recom-03.jpeg",
         "price": "500",
         "rating": 5.0,
         "reviewsCount": 150
@@ -26,7 +26,7 @@
     {
         "id": 24,
         "title": "Custom Card",
-        "image": "https://elsienv.github.io/data-jemariragil/images/best-04.jpeg",
+        "image": "https://elsienv.github.io/data-jemariragil/images/recom-04.jpeg",
         "price": "20.000",
         "rating": 4.6,
         "reviewsCount": 75
@@ -34,7 +34,7 @@
     {
         "id": 25,
         "title": "Bando Tuing",
-        "image": "https://elsienv.github.io/data-jemariragil/images/best-05.jpeg",
+        "image": "https://elsienv.github.io/data-jemariragil/images/recom-05.jpeg",
         "price": "7.000",
         "rating": 4.6,
         "reviewsCount": 75
@@ -42,7 +42,7 @@
     {
         "id": 26,
         "title": "Tas Transparan",
-        "image": "https://elsienv.github.io/data-jemariragil/images/best-06.jpeg",
+        "image": "https://elsienv.github.io/data-jemariragil/images/recom-06.jpeg",
         "price": "5.000",
         "rating": 5.0,
         "reviewsCount": 590
