@@ -1,0 +1,162 @@
+[
+    {
+        "id": 31,
+        "title": "Bouquet Photo",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-01-bkt.jpeg",
+        "price": "30.000",
+        "rating": 4.8,
+        "reviewsCount": 120
+    },
+    {
+        "id": 32,
+        "title": "Kipas Custom",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-02-gift.jpeg",
+        "price": "8.000",
+        "rating": 4.5,
+        "reviewsCount": 500
+    },
+    {
+        "id": 33,
+        "title": "Bando Tuing",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-03-gift.jpeg",
+        "price": "12.000",
+        "rating": 5.0,
+        "reviewsCount": 150
+    },
+    {
+        "id": 34,
+        "title": "Ganci Album",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-04-svn.jpeg",
+        "price": "25.000",
+        "rating": 4.6,
+        "reviewsCount": 75
+    },
+    {
+        "id": 35,
+        "title": "Ganci Akrilik",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-05-svn.jpeg",
+        "price": "10.000",
+        "rating": 4.6,
+        "reviewsCount": 75
+    },
+    {
+        "id": 36,
+        "title": "Ganci Cermin",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-06-svn.jpeg",
+        "price": "7.000",
+        "rating": 5.0,
+        "reviewsCount": 590
+    },
+    {
+        "id": 37,
+        "title": "Cincin Manik 3pcs",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-07-acc.jpeg",
+        "price": "5.000",
+        "rating": 5.0,
+        "reviewsCount": 590
+    },
+    {
+        "id": 38,
+        "title": "Gelang Manik 3pcs",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-08-acc.jpeg",
+        "price": "10.000",
+        "rating": 5.0,
+        "reviewsCount": 590
+    },
+    {
+        "id": 39,
+        "title": "Tas Transparan",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-09-acc.jpeg",
+        "price": "5.000",
+        "rating": 5.0,
+        "reviewsCount": 590
+    },
+    {
+        "id": 40,
+        "title": "Kacamata Fashion",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-10-acc.jpeg",
+        "price": "25.000",
+        "rating": 5.0,
+        "reviewsCount": 590
+    },
+    {
+        "id": 41,
+        "title": "Photo Cutting",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-11-pht.jpeg",
+        "price": "900",
+        "rating": 5.0,
+        "reviewsCount": 590
+    },
+    {
+        "id": 42,
+        "title": "Cetak Foto",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-12-pht.jpeg",
+        "price": "3.000",
+        "rating": 5.0,
+        "reviewsCount": 590
+    },
+    {
+        "id": 43,
+        "title": "Polaroid",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-13-pht.jpeg",
+        "price": "15.000",
+        "rating": 5.0,
+        "reviewsCount": 590
+    },
+    {
+        "id": 44,
+        "title": "Photo Card",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-14-pht.jpeg",
+        "price": "5.000",
+        "rating": 5.0,
+        "reviewsCount": 590
+    },
+    {
+        "id": 45,
+        "title": "Photo Strip",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-15-pht.jpeg",
+        "price": "7.000",
+        "rating": 5.0,
+        "reviewsCount": 590
+    },
+    {
+        "id": 46,
+        "title": "Sticker Cutting",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-16-stc.jpeg",
+        "price": "2.000",
+        "rating": 5.0,
+        "reviewsCount": 590
+    },
+    {
+        "id": 47,
+        "title": "Custom Kartu",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-17-cst.jpeg",
+        "price": "20.000",
+        "rating": 5.0,
+        "reviewsCount": 590
+    },
+    {
+        "id": 48,
+        "title": "Custom Kartu 2",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-18-cst.jpeg",
+        "price": "20.000",
+        "rating": 5.0,
+        "reviewsCount": 590
+    },
+    {
+        "id": 49,
+        "title": "Bundling Bestie",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-19-bdl.jpeg",
+        "price": "16.000",
+        "rating": 5.0,
+        "reviewsCount": 590
+    },
+    {
+        "id": 50,
+        "title": "Bundling Manik",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-20-bdl.jpeg",
+        "price": "10.000",
+        "rating": 5.0,
+        "reviewsCount": 590
+    }
+]
