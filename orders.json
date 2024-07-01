@@ -406,5 +406,42 @@
     },
     "paymentMethod": "cash-on-delivery",
     "date": "2024-07-01T09:33:45.213Z"
+  },
+  {
+    "items": [
+      {
+        "id": 49,
+        "title": "Bundling Bestie",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-19-bdl.jpeg",
+        "price": "16.000",
+        "rating": 4.4,
+        "reviewsCount": 510,
+        "quantity": 1
+      },
+      {
+        "id": 47,
+        "title": "Custom Kartu",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-17-cst.jpeg",
+        "price": "20.000",
+        "rating": 4,
+        "reviewsCount": 90,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 36,
+    "email": "elsienrvr@gmail.com",
+    "deliveryMethod": "self-pickup",
+    "shippingAddress": {
+      "firstName": "ELSIE",
+      "lastName": "NARESVARI",
+      "company": "",
+      "address": "Klaseman",
+      "zipCode": "12345",
+      "city": "ada",
+      "country": "ID",
+      "state": ""
+    },
+    "paymentMethod": "credit-card",
+    "date": "2024-07-01T09:53:33.591Z"
   }
 ]
