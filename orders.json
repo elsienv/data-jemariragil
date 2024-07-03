@@ -471,5 +471,33 @@
     },
     "paymentMethod": "cash-on-delivery",
     "date": "2024-07-03T03:17:33.028Z"
+  },
+  {
+    "items": [
+      {
+        "id": 44,
+        "title": "Photo Card",
+        "image": "https://elsienv.github.io/data-jemariragil/images/product-14-pht.jpeg",
+        "price": "5.000",
+        "rating": 4.8,
+        "reviewsCount": 649,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 5,
+    "email": "elsienrvr@gmail.com",
+    "deliveryMethod": "self-pickup",
+    "shippingAddress": {
+      "firstName": "ELSIE",
+      "lastName": "NARESVARI",
+      "company": "",
+      "address": "Klaseman",
+      "zipCode": "12345",
+      "city": "ada",
+      "country": "ID",
+      "state": ""
+    },
+    "paymentMethod": "cash-on-delivery",
+    "date": "2024-07-03T04:15:15.870Z"
   }
 ]
